@@ -66,5 +66,5 @@ echo 'Result Find Missing term in Arithmatic Progression Function => '.$sonic->m
 
 $limit = 100;
 $pcount_prime = $sonic->countPrimesNumber($limit);
-echo 'Result Count Primes Number Function Function => '.json_encode($pcount_prime);
+echo 'Result Count Primes Number Function Function => '.$pcount_prime;
 
